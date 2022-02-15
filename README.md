@@ -1,5 +1,5 @@
 # Interactive Lagrange Interpolation
-A small program that uses `matplotlib` to plot points and interpolate between them in real time.
+A small program that uses `matplotlib` to plot points and then uses Lagrange interpolation to generate a polynomial that passes between them in real time.
 <p align="center">
 <img src="./demo.gif" width="640" height="360" style="display:block"/>
 </p>
