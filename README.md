@@ -8,3 +8,7 @@ A small program that uses `matplotlib` to plot points and interpolate between th
 $ pip install -r requirements.txt
 $ python3 interactive_lagrange.py
 ```
+- Click to add points
+- Press `c` to clear the plot
+- Press `-` to zoom out
+- Press `=` to zoom in
