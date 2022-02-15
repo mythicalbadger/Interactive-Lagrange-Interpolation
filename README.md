@@ -1,6 +1,8 @@
 # Interactive Lagrange Interpolation
 A small program that uses `matplotlib` to plot points and interpolate between them in real time.
-<img src="./demo.gif" width="40" height="40" />
+<p align="center">
+<img src="./demo.gif" width="640" height="360" style="display:block"/>
+</p>
 # Usage
 ```
 $ pip install -r requirements.txt
